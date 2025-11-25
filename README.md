@@ -121,6 +121,12 @@ Desktop productivity app with Tkinter
 
 ## 📊 GitHub Stats
 
+<!-- GITHUB_STATS:START -->
+| ⭐ Stars | 🔱 Forks | 📝 Commits | 👥 Contributors | 🕒 Last Updated |
+|:--------:|:--------:|:----------:|:---------------:|:---------------:|
+| **0** | **0** | **0** | **0** | TBD |
+<!-- GITHUB_STATS:END -->
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anish-0211&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
