@@ -124,7 +124,7 @@ Desktop productivity app with Tkinter
 <!-- GITHUB_STATS:START -->
 | ⭐ Stars | 🔱 Forks | 📝 Commits | 👥 Contributors | 🕒 Last Updated |
 |:--------:|:--------:|:----------:|:---------------:|:---------------:|
-| **0** | **0** | **0** | **0** | TBD |
+| **0** | **0** | **5** | **1** | 25/11/2025 |
 <!-- GITHUB_STATS:END -->
 
 <div align="center">
