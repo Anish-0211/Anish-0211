@@ -18,7 +18,7 @@
 const anish = {
     location: "England 🇬🇧",
     role: "Full Stack AI Developer",
-    company: "FUTURE TECHNOLOGY GROUP LTD",
+    company: "Future Technology Group Ltd",
     experience: "4+ years",
     achievement: "🏆 MSc Graduation Prize Winner",
     expertise: ["LLMs & GenAI", "Multi-Agent Systems", "MLOps", "Cloud Architecture"],
