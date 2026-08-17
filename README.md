@@ -18,7 +18,7 @@
 const anish = {
     location: "England 🇬🇧",
     role: "Full Stack AI Developer",
-    company: "The Lettings Hub",
+    company: "FUTURE TECHNOLOGY GROUP LTD",
     experience: "4+ years",
     achievement: "🏆 MSc Graduation Prize Winner",
     expertise: ["LLMs & GenAI", "Multi-Agent Systems", "MLOps", "Cloud Architecture"],
