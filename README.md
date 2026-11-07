@@ -136,6 +136,7 @@ Intelligent safety system with ML-powered decision-making
 
 ### 🔐 Fingerprint Login on Linux: Open Source Driver Tuning (2026)
 I could have bought a shiny new MacBook and had a fingerprint reader that simply works, and I genuinely wouldn't care. I'd rather be part of the open-source community. My ASUS VivoBook's power-button sensor had no Linux support, and I waited through several Ubuntu releases for it. So I tuned the open-source driver myself and enabled it on Ubuntu 26.10. Every time my fingerprint unlocks the laptop, it makes me smile, and a MacBook wouldn't give me that.
+libfprint itself began as an academic project at the University of Manchester back in 2007. Almost twenty years later, that open-source work is why a fingerprint scanner with no Linux support in Ubuntu works on my laptop. That's the beauty of open source: everything I can read, I can trust, and I can fix.
 - 🔬 **Diagnosis**: raw sensor frames were saturated; a gain sweep found the usable window (coverage 25% → 97%)
 - ⚡ **Speed**: verify finishes without waiting for finger lift (~0.9 s → ~0.5 s)
 - 🛠️ **Tooling**: strict lint, format checks and CI on GitHub Actions
