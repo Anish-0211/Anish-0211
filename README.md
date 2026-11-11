@@ -150,7 +150,7 @@ libfprint itself began as an academic project at the University of Manchester ba
 <!-- GITHUB_STATS:START -->
 | ⭐ Stars | 🔱 Forks | 📝 Commits | 👥 Contributors | 🕒 Last Updated |
 |:--------:|:--------:|:----------:|:---------------:|:---------------:|
-| **0** | **0** | **111** | **2** | 10/11/2026 |
+| **0** | **0** | **111** | **2** | 11/11/2026 |
 <!-- GITHUB_STATS:END -->
 
 <div align="center">
